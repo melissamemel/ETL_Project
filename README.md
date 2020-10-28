@@ -7,7 +7,7 @@ Project Summary
 Project Work
 
     Extraction Process
-        We downloaded the 3 csv files from Kaggle. Each team member took responsibility for creating a pandas file for each dataset and performing the cleaning process for each with the goal of creating three separate pandas DataFrames that we could load into a SQL database for future analysis. We worked collaboratively as each of us encountered difficulties with the entire ETL process by multiple remote meetings via meet.google.com.
+        We downloaded the 3 csv files for the datasets noted above from Kaggle. Each team member took responsibility for creating a pandas file for each dataset and performing the cleaning process for each with the goal of creating three separate pandas DataFrames that we could load into a SQL database for future analysis. We worked collaboratively as each of us encountered difficulties with the entire ETL process by multiple remote meetings via meet.google.com.
 
     Transformation Process
         * world-happiness-report-2005-2018.csv
