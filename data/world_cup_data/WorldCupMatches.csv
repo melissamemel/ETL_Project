@@ -647,7 +647,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2006,"09 Jun 2006 - 21:00 ",Group A,"FIFA World Cup Stadium, Gelsenkirchen","Gelsenkirchen ",Poland,0,2,Ecuador," ",52000,0,1,KAMIKAWA Toru (JPN),HIROSHIMA Yoshikazu (JPN),KIM Dae Young (KOR),97410100,97410002,POL,ECU
 2006,"10 Jun 2006 - 15:00 ",Group B,"FIFA World Cup Stadium, Frankfurt","Frankfurt/Main ",England,1,0,Paraguay," ",48000,1,0,RODRIGUEZ Marco (MEX),CAMARGO Jose Luis (MEX),LEAL Leonel (CRC),97410100,97410003,ENG,PAR
 2006,"10 Jun 2006 - 18:00 ",Group B,"FIFA World Cup Stadium, Dortmund","Dortmund ","rn"">Trinidad and Tobago",0,0,Sweden," ",62959,0,0,MAIDIN Shamsul (SIN),PERMPANICH Prachya (THA),GHULOUM Eisa (UAE),97410100,97410004,TRI,SWE
-2006,"10 Jun 2006 - 21:00 ",Group C,"FIFA World Cup Stadium, Hamburg","Hamburg ",Argentina,2,1,C�te d'Ivoire," ",49480,2,0,DE BLEECKERE Frank (BEL),HERMANS Peter (BEL),VROMANS Walter (BEL),97410100,97410005,ARG,CIV
+2006,"10 Jun 2006 - 21:00 ",Group C,"FIFA World Cup Stadium, Hamburg","Hamburg ",Argentina,2,1,Cote d'Ivoire," ",49480,2,0,DE BLEECKERE Frank (BEL),HERMANS Peter (BEL),VROMANS Walter (BEL),97410100,97410005,ARG,CIV
 2006,"11 Jun 2006 - 15:00 ",Group C,Zentralstadion,"Leipzig ","rn"">Serbia and Montenegro",0,1,Netherlands," ",43000,0,1,MERK Markus (GER),SCHRAER Christian (GER),SALVER Jan-Hendrik (GER),97410100,97410006,SCG,NED
 2006,"11 Jun 2006 - 18:00 ",Group D,Franken-Stadion,"Nuremberg ",Mexico,3,1,Iran," ",41000,1,1,ROSETTI Roberto (ITA),COPELLI Cristiano (ITA),STAGNOLI Alessandro (ITA),97410100,97410007,MEX,IRN
 2006,"11 Jun 2006 - 21:00 ",Group D,"FIFA World Cup Stadium, Cologne","Cologne ",Angola,0,1,Portugal," ",45000,0,1,LARRIONDA Jorge (URU),RIAL Walter (URU),FANDINO Pablo (URU),97410100,97410008,ANG,POR
@@ -664,7 +664,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2006,"15 Jun 2006 - 18:00 ",Group B,Franken-Stadion,"Nuremberg ",England,2,0,"rn"">Trinidad and Tobago"," ",41000,0,0,KAMIKAWA Toru (JPN),HIROSHIMA Yoshikazu (JPN),KIM Dae Young (KOR),97410100,97410019,ENG,TRI
 2006,"15 Jun 2006 - 21:00 ",Group B,Olympiastadion,"Berlin ",Sweden,1,0,Paraguay," ",72000,0,0,MICHEL Lubos (SVK),Roman SLYSKO (SVK),BALKO Martin (SVK),97410100,97410020,SWE,PAR
 2006,"16 Jun 2006 - 15:00 ",Group C,"FIFA World Cup Stadium, Gelsenkirchen","Gelsenkirchen ",Argentina,6,0,"rn"">Serbia and Montenegro"," ",52000,3,0,ROSETTI Roberto (ITA),COPELLI Cristiano (ITA),STAGNOLI Alessandro (ITA),97410100,97410021,ARG,SCG
-2006,"16 Jun 2006 - 18:00 ",Group C,Gottlieb-Daimler-Stadion,"Stuttgart ",Netherlands,2,1,C�te d'Ivoire," ",52000,2,1,RUIZ Oscar (COL),TAMAYO Fernando (ECU),NAVIA Jose (COL),97410100,97410022,NED,CIV
+2006,"16 Jun 2006 - 18:00 ",Group C,Gottlieb-Daimler-Stadion,"Stuttgart ",Netherlands,2,1,Cote d'Ivoire," ",52000,2,1,RUIZ Oscar (COL),TAMAYO Fernando (ECU),NAVIA Jose (COL),97410100,97410022,NED,CIV
 2006,"16 Jun 2006 - 21:00 ",Group D,"FIFA World Cup Stadium, Hanover","Hanover ",Mexico,0,0,Angola," ",43000,0,0,MAIDIN Shamsul (SIN),PERMPANICH Prachya (THA),GHULOUM Eisa (UAE),97410100,97410023,MEX,ANG
 2006,"17 Jun 2006 - 15:00 ",Group D,"FIFA World Cup Stadium, Frankfurt","Frankfurt/Main ",Portugal,2,0,IR Iran," ",48000,0,0,POULAT Eric (FRA),DAGORNE Lionel (FRA),TEXIER Vincent (FRA),97410100,97410024,POR,IRN
 2006,"17 Jun 2006 - 18:00 ",Group E,"FIFA World Cup Stadium, Cologne","Cologne ",Czech Republic,0,2,Ghana," ",45000,0,1,ELIZONDO Horacio (ARG),GARCIA Dario (ARG),OTERO Rodolfo (ARG),97410100,97410026,CZE,GHA
@@ -682,7 +682,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2006,"21 Jun 2006 - 16:00 ",Group D,Zentralstadion,"Leipzig ",Iran,1,1,Angola," ",38000,0,0,SHIELD Mark (AUS),GIBSON Nathan (AUS),WILSON Ben (AUS),97410100,97410040,IRN,ANG
 2006,"21 Jun 2006 - 16:00 ",Group D,"FIFA World Cup Stadium, Gelsenkirchen","Gelsenkirchen ",Portugal,2,1,Mexico," ",52000,2,1,MICHEL Lubos (SVK),Roman SLYSKO (SVK),BALKO Martin (SVK),97410100,97410039,POR,MEX
 2006,"21 Jun 2006 - 21:00 ",Group C,"FIFA World Cup Stadium, Frankfurt","Frankfurt/Main ",Netherlands,0,0,Argentina," ",48000,0,0,MEDINA CANTALEJO Luis (ESP),GIRALDEZ CARRASCO Victoriano (ESP),MEDINA HERNANDEZ Pedro (ESP),97410100,97410037,NED,ARG
-2006,"21 Jun 2006 - 21:00 ",Group C,"FIFA World Cup Stadium, Munich","Munich ",C�te d'Ivoire,3,2,"rn"">Serbia and Montenegro"," ",66000,1,2,RODRIGUEZ Marco (MEX),CAMARGO Jose Luis (MEX),LEAL Leonel (CRC),97410100,97410038,CIV,SCG
+2006,"21 Jun 2006 - 21:00 ",Group C,"FIFA World Cup Stadium, Munich","Munich ",Cote d'Ivoire,3,2,"rn"">Serbia and Montenegro"," ",66000,1,2,RODRIGUEZ Marco (MEX),CAMARGO Jose Luis (MEX),LEAL Leonel (CRC),97410100,97410038,CIV,SCG
 2006,"22 Jun 2006 - 16:00 ",Group E,"FIFA World Cup Stadium, Hamburg","Hamburg ",Czech Republic,0,2,Italy," ",50000,0,1,ARCHUNDIA Benito (MEX),RAMIREZ Jose (MEX),VERGARA Hector (CAN),97410100,97410041,CZE,ITA
 2006,"22 Jun 2006 - 16:00 ",Group E,Franken-Stadion,"Nuremberg ",Ghana,2,1,USA," ",41000,2,1,MERK Markus (GER),SCHRAER Christian (GER),SALVER Jan-Hendrik (GER),97410100,97410042,GHA,USA
 2006,"22 Jun 2006 - 21:00 ",Group F,"FIFA World Cup Stadium, Dortmund","Dortmund ",Japan,1,4,Brazil," ",65000,1,1,POULAT Eric (FRA),DAGORNE Lionel (FRA),TEXIER Vincent (FRA),97410100,97410043,JPN,BRA
@@ -719,7 +719,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2010,"14 Jun 2010 - 16:00 ",Group E,Free State Stadium,"Mangaung/Bloemfontein ",Japan,1,0,Cameroon," ",30620,1,0,Oleg�rio BENQUEREN�A (POR),CARDINAL Jose (POR),MIRANDA Bertino (POR),249722,300061477,JPN,CMR
 2010,"14 Jun 2010 - 20:30 ",Group F,Cape Town Stadium,"Cape Town ",Italy,1,1,Paraguay," ",62869,0,1,ARCHUNDIA Benito (MEX),VERGARA Hector (CAN),TORRENTERA Marvin (MEX),249722,300061484,ITA,PAR
 2010,"15 Jun 2010 - 13:30 ",Group F,Royal Bafokeng Sports Palace,"Phokeng ",New Zealand,1,1,Slovakia," ",23871,0,0,DAMON Jerome (RSA),NTAGUNGIRA Celestin (RWA),MOLEFE Enock (RSA),249722,300061483,NZL,SVK
-2010,"15 Jun 2010 - 16:00 ",Group G,Port Elizabeth Stadium,"Nelson Mandela Bay/Port Elizabeth ",C�te d'Ivoire,0,0,Portugal," ",37034,0,0,LARRIONDA Jorge (URU),FANDINO Pablo (URU),ESPINOSA Mauricio (URU),249722,300061489,CIV,POR
+2010,"15 Jun 2010 - 16:00 ",Group G,Port Elizabeth Stadium,"Nelson Mandela Bay/Port Elizabeth ",Ivory Coast,0,0,Portugal," ",37034,0,0,LARRIONDA Jorge (URU),FANDINO Pablo (URU),ESPINOSA Mauricio (URU),249722,300061489,CIV,POR
 2010,"15 Jun 2010 - 20:30 ",Group G,Ellis Park Stadium,"Johannesburg ",Brazil,2,1,Korea DPR," ",54331,0,0,KASSAI Viktor (HUN),EROS Gabor (HUN),VAMOS Tibor (HUN),249722,300061490,BRA,PRK
 2010,"16 Jun 2010 - 13:30 ",Group H,Mbombela Stadium,"Nelspruit ",Honduras,0,1,Chile," ",32664,0,1,MAILLET Eddy (SEY),MENKOUANDE Evarist (CMR),HASSANI Bechir (TUN),249722,300061495,HON,CHI
 2010,"16 Jun 2010 - 16:00 ",Group H,Durban Stadium,"Durban ",Spain,0,1,Switzerland," ",62453,0,0,WEBB Howard (ENG),Darren CANN (ENG),MULLARKEY Michael (ENG),249722,300111112,ESP,SUI
@@ -735,7 +735,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2010,"19 Jun 2010 - 20:30 ",Group E,Loftus Versfeld Stadium,"Tshwane/Pretoria ",Cameroon,1,2,Denmark," ",38074,1,1,LARRIONDA Jorge (URU),FANDINO Pablo (URU),ESPINOSA Mauricio (URU),249722,300061475,CMR,DEN
 2010,"20 Jun 2010 - 13:30 ",Group F,Free State Stadium,"Mangaung/Bloemfontein ",Slovakia,0,2,Paraguay," ",26643,0,1,MAILLET Eddy (SEY),MENKOUANDE Evarist (CMR),HASSANI Bechir (TUN),249722,300061481,SVK,PAR
 2010,"20 Jun 2010 - 16:00 ",Group F,Mbombela Stadium,"Nelspruit ",Italy,1,1,New Zealand," ",38229,1,1,BATRES Carlos (GUA),LEAL Leonel (CRC),PASTRANA Carlos (HON),249722,300061482,ITA,NZL
-2010,"20 Jun 2010 - 20:30 ",Group G,Soccer City Stadium,"Johannesburg ",Brazil,3,1,C�te d'Ivoire," ",84455,1,0,St�phane LANNOY (FRA),DANSAULT Eric (FRA),UGO Laurent (FRA),249722,300061488,BRA,CIV
+2010,"20 Jun 2010 - 20:30 ",Group G,Soccer City Stadium,"Johannesburg ",Brazil,3,1,Ivory Coast," ",84455,1,0,St�phane LANNOY (FRA),DANSAULT Eric (FRA),UGO Laurent (FRA),249722,300061488,BRA,CIV
 2010,"21 Jun 2010 - 13:30 ",Group G,Cape Town Stadium,"Cape Town ",Portugal,7,0,Korea DPR," ",63644,1,0,POZO Pablo (CHI),BASUALTO Patricio (CHI),MONDRIA Francisco (CHI),249722,300061487,POR,PRK
 2010,"21 Jun 2010 - 16:00 ",Group H,Port Elizabeth Stadium,"Nelson Mandela Bay/Port Elizabeth ",Chile,1,0,Switzerland," ",34872,0,0,AL GHAMDI Khalil (KSA),KAMRANIFAR Hassan (IRN),AL MARZOUQI Saleh (UAE),249722,300061493,CHI,SUI
 2010,"21 Jun 2010 - 20:30 ",Group H,Ellis Park Stadium,"Johannesburg ",Spain,2,0,Honduras," ",54386,1,0,NISHIMURA Yuichi (JPN),SAGARA Toru (JPN),JEONG Hae Sang (KOR),249722,300061494,ESP,HON
@@ -752,7 +752,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2010,"24 Jun 2010 - 20:30 ",Group E,Royal Bafokeng Sports Palace,"Phokeng ",Denmark,1,3,Japan," ",27967,0,2,DAMON Jerome (RSA),NTAGUNGIRA Celestin (RWA),MOLEFE Enock (RSA),249722,300061474,DEN,JPN
 2010,"24 Jun 2010 - 20:30 ",Group E,Cape Town Stadium,"Cape Town ",Cameroon,1,2,Netherlands," ",63093,0,1,POZO Pablo (CHI),BASUALTO Patricio (CHI),MONDRIA Francisco (CHI),249722,300061473,CMR,NED
 2010,"25 Jun 2010 - 16:00 ",Group G,Durban Stadium,"Durban ",Portugal,0,0,Brazil," ",62712,0,0,ARCHUNDIA Benito (MEX),VERGARA Hector (CAN),TORRENTERA Marvin (MEX),249722,300111111,POR,BRA
-2010,"25 Jun 2010 - 16:00 ",Group G,Mbombela Stadium,"Nelspruit ",Korea DPR,0,3,C�te d'Ivoire," ",34763,0,2,Alberto UNDIANO MALLENCO (ESP),MARTINEZ Fermin (ESP),YUSTE Juan (ESP),249722,300061486,PRK,CIV
+2010,"25 Jun 2010 - 16:00 ",Group G,Mbombela Stadium,"Nelspruit ",Korea DPR,0,3,Ivory Coast," ",34763,0,2,Alberto UNDIANO MALLENCO (ESP),MARTINEZ Fermin (ESP),YUSTE Juan (ESP),249722,300061486,PRK,CIV
 2010,"25 Jun 2010 - 20:30 ",Group H,Loftus Versfeld Stadium,"Tshwane/Pretoria ",Chile,1,2,Spain," ",41958,0,2,RODRIGUEZ Marco (MEX),CAMARGO Jose Luis (MEX),MORIN Alberto (MEX),249722,300061491,CHI,ESP
 2010,"25 Jun 2010 - 20:30 ",Group H,Free State Stadium,"Mangaung/Bloemfontein ",Switzerland,0,0,Honduras," ",28042,0,0,BALDASSI Hector (ARG),CASAS Ricardo (ARG),MAIDANA Hernan (ARG),249722,300061492,SUI,HON
 2010,"26 Jun 2010 - 16:00 ",Round of 16,Port Elizabeth Stadium,"Nelson Mandela Bay/Port Elizabeth ",Uruguay,2,1,Korea Republic," ",30597,1,0,Wolfgang STARK (GER),SALVER Jan-Hendrik (GER),PICKEL Mike (GER),249717,300061504,URU,KOR
@@ -778,7 +778,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2014,"14 Jun 2014 - 13:00 ",Group C,Estadio Mineirao,"Belo Horizonte ",Colombia,3,0,Greece," ",57174,1,0,GEIGER Mark (USA),HURD Sean (USA),FLETCHER Joe (CAN),255931,300186471,COL,GRE
 2014,"14 Jun 2014 - 16:00 ",Group D,Estadio Castelao,"Fortaleza ",Uruguay,1,3,Costa Rica," ",58679,1,0,BRYCH Felix (GER),BORSCH Mark (GER),LUPP Stefan (GER),255931,300186489,URU,CRC
 2014,"14 Jun 2014 - 18:00 ",Group D,Arena Amazonia,"Manaus ",England,1,2,Italy," ",39800,1,1,Bj�rn KUIPERS (NED),Sander VAN ROEKEL (NED),Erwin ZEINSTRA (NED),255931,300186513,ENG,ITA
-2014,"14 Jun 2014 - 22:00 ",Group C,Arena Pernambuco,"Recife ",C�te d'Ivoire,2,1,Japan," ",40267,0,1,OSSES Enrique (CHI),ASTROZA Carlos (CHI),ROMAN Sergio (CHI),255931,300186507,CIV,JPN
+2014,"14 Jun 2014 - 22:00 ",Group C,Arena Pernambuco,"Recife ",Cote d'Ivoire,2,1,Japan," ",40267,0,1,OSSES Enrique (CHI),ASTROZA Carlos (CHI),ROMAN Sergio (CHI),255931,300186507,CIV,JPN
 2014,"15 Jun 2014 - 13:00 ",Group E,Estadio Nacional,"Brasilia ",Switzerland,2,1,Ecuador," ",68351,0,1,Ravshan IRMATOV (UZB),RASULOV Abduxamidullo (UZB),KOCHKAROV Bakhadyr (KGZ),255931,300186494,SUI,ECU
 2014,"15 Jun 2014 - 16:00 ",Group E,Estadio Beira-Rio,"Porto Alegre ",France,3,0,Honduras," ",43012,1,0,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),255931,300186496,FRA,HON
 2014,"15 Jun 2014 - 19:00 ",Group F,Estadio do Maracana,"Rio De Janeiro ",Argentina,2,1,"rn"">Bosnia and Herzegovina"," ",74738,1,0,AGUILAR Joel (SLV),TORRES William (SLV),ZUMBA Juan (SLV),255931,300186477,ARG,BIH
